@@ -1,0 +1,105 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title> Presentation SVG </title>
+  <link  rel="stylesheet" type="text/css" href="style.css">
+</head>
+<style>
+
+  html::-webkit-scrollbar {
+    width: 12px;
+  }
+
+  html::-webkit-scrollbar-track {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+
+  html::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, rgba(209, 79, 45, 1) 0%, rgba(0, 0, 0, 0) 100%);
+    border-radius: 10px;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #040322;
+    overflow-y: hidden;
+  }
+  @keyframes moveArtboard {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-99vw);
+    }
+  }
+
+  @keyframes moveArtboard2 {
+    0% {
+      transform: translateX(-99vw);
+    }
+    100% {
+      transform: translateX(-198vw);
+    }
+  }
+
+  @keyframes moveArtboard3 {
+    0% {
+      transform: translateY(0) translateX(-198vw);
+    }
+    100% {
+      transform: translateY(-100vh) translateX(-198vw);
+    }
+  }
+
+  @keyframes moveArtboard4 {
+    0% {
+      transform: translateY(-100vh) translateX(-198vw);
+    }
+    100% {
+      transform: translateY(-100vh) translateX(-99vw);
+    }
+  }
+
+  @keyframes moveArtboard5 {
+    0% {
+      transform: translateY(-100vh) translateX(-99vw);
+    }
+    100% {
+      transform: translateY(-100vh) translateX(0);
+    }
+  }
+
+  #artboard {
+    width: 300vw;
+    overflow-y: hidden;
+    animation: moveArtboard 4s 1 4s forwards,
+    moveArtboard2 4s 1 8s forwards,
+    moveArtboard3 4s 1 12s forwards,
+    moveArtboard4 4s 1 16s forwards,
+    moveArtboard5 4s 1 20s forwards;
+  }
+  svg {
+    width: 99vw;
+    height: 100vh;
+  }
+
+  audio {
+    display: none;
+  }
+</style>
+<body>
+    <audio id="myAudio" muted="muted" autoplay controls>
+        <source src="./usable-svg/imgs/intro-music.mp3" type="audio/mp3">
+        Your browser does not support the audio element.
+    </audio>
+  <main> 
+  <div id="artboard">
+
+  </div>
+  </main>
+  <script src="javascript.js"> </script>
+</body>
+</html>

@@ -1,0 +1,115 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1300 700">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-0.5" y="0.5" width="1300" height="699" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>Artboard5</title>
+  <g id="Artboard_5" data-name="Artboard 5">
+    <g style="clip-path: url(#clip-path)">
+      <g>
+        <rect width="1300" height="701" style="fill: #040322"/>
+        <g>
+          <text transform="translate(316.01 114.34)" style="font-size: 90.25788116455078px;fill: none;stroke: #00c9dc;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">J
+            
+            
+            <tspan x="37.55" y="0" style="letter-spacing: -0.011230500179004949em">a</tspan>
+            <tspan x="89.46" y="0" style="letter-spacing: -0.01513676111083276em">v</tspan>
+            <tspan x="133.8" y="0">aScript</tspan>
+          </text>
+          <text transform="translate(306.01 100.3)" style="font-size: 90.25788116455078px;fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">J
+            
+            
+            <tspan x="37.55" y="0" style="letter-spacing: -0.011230500179004949em">a</tspan>
+            <tspan x="89.46" y="0" style="letter-spacing: -0.01513676111083276em">v</tspan>
+            <tspan x="133.8" y="0">aScript</tspan>
+          </text>
+        </g>
+        <g>
+          <text transform="translate(1018.01 190.55)" style="font-size: 60.17192077636719px;fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">HTML5</text>
+          <text transform="translate(1028.01 202.58)" style="font-size: 60.17192077636719px;fill: none;stroke: #00c9dc;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">HTML5</text>
+        </g>
+        <line x1="1133.5" y1="0.5" x2="907.5" y2="155.94" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+        <line x1="1111.5" y1="48.64" x2="885.5" y2="204.08" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+        <g>
+          <text transform="translate(896.01 651.55)" style="font-size: 100.28652954101562px;fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">CSS3</text>
+          <text transform="translate(906.01 661.58)" style="font-size: 100.28652954101562px;fill: none;stroke: #00c9dc;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">CSS3</text>
+        </g>
+        <g>
+          <polygon points="450.2 568.62 124.94 568.62 126.52 565.88 336.84 451.07 230.24 385.72 287.57 286.14 450.2 568.62" style="fill: #ec002e;stroke: #ec002e;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <polygon points="314.05 451.07 103.74 565.88 207.46 385.72 314.05 451.07" style="fill: none;stroke: #ec002e;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <polygon points="296.77 450.46 106.92 554.1 38.9 591.23 46.27 296.88 200.55 391.47 296.77 450.46" style="fill: #ec002e"/>
+        </g>
+        <g>
+          <text transform="translate(185.01 338.15)" style="font-size: 113.32377624511719px;fill: none;stroke: #00c9dc;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">
+            <tspan style="letter-spacing: -0.0068359571062624495em">S</tspan>
+            <tspan x="68.06" y="0">ASS</tspan>
+          </text>
+          <text transform="translate(178.01 321.1)" style="font-size: 113.32377624511719px;fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;opacity: 0.4000000059604645">
+            <tspan style="letter-spacing: -0.0068359571062624495em">S</tspan>
+            <tspan x="68.06" y="0">ASS</tspan>
+          </text>
+        </g>
+        <rect x="494.5" y="193.05" width="344" height="445.27" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+        <rect x="505.5" y="180.01" width="321" height="467.34" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+        <image width="498" height="693" transform="translate(515.5 157.95) scale(0.68 0.68)" xlink:href="./usable-svg/imgs/laptop-photo.jpg"/>
+        <g class="text-svg">
+        <text transform="translate(804.37 346.81)" style="font-size: 100.28652954101562px;fill: #fff;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800;letter-spacing: 0.002998055417231142em">Hello
+          <tspan x="0" y="89.25">there,</tspan>
+        </text>
+        </g>
+        <g>
+          <ellipse cx="16.7" cy="12.61" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="40.48" cy="12.61" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="64.49" cy="12.61" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="88.03" cy="12.61" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="111.81" cy="12.61" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="16.7" cy="36.93" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="40.48" cy="36.93" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="64.49" cy="36.93" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="88.03" cy="36.93" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="111.81" cy="36.93" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="16.7" cy="61.26" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="40.48" cy="61.26" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="64.49" cy="61.26" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="88.03" cy="61.26" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="111.81" cy="61.26" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="16.7" cy="85.58" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="40.48" cy="85.58" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="64.49" cy="85.58" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="88.03" cy="85.58" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="111.81" cy="85.58" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="16.7" cy="109.9" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="40.48" cy="109.9" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="64.49" cy="109.9" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="88.03" cy="109.9" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="111.81" cy="109.9" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="16.7" cy="134.22" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="40.48" cy="134.22" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="64.49" cy="134.22" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="88.03" cy="134.22" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <ellipse cx="111.81" cy="134.22" rx="1.66" ry="1.67" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+        </g>
+        <line x1="88" y1="245.7" x2="253" y2="184.53" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+        <line x1="198" y1="220.63" x2="358" y2="162.46" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+        <line x1="222" y1="613.75" x2="407" y2="646.85" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+        <line x1="149" y1="617.76" x2="278" y2="642.84" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+        <rect x="-0.5" y="0.5" width="1303" height="700" style="fill: none"/>
+      </g>
+    </g>
+    <ellipse cx="1228.5" cy="665.4" rx="156" ry="156.45" style="fill: #ec002e;stroke: #ec002e;stroke-miterlimit: 10;stroke-width: 2px">
+      <animate
+                attributeName="r"
+                attributeType="XML"
+                from="25"
+                to="82.21"
+                begin="0s"
+                dur="2s"
+                fill="freeze"
+                repeatCount="indefinite"
+              />
+    </ellipse>
+  </g>
+</svg>

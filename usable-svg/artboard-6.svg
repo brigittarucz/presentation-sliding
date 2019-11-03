@@ -1,0 +1,239 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1300 700">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1299" height="699" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect x="589.54" y="245.88" width="296.88" height="187.92" transform="translate(1426.34 -91.75) rotate(123.19)" style="fill: none"/>
+    </clipPath>
+    <image id="brigitta" width="768" height="1024" xlink:href="./usable-svg/imgs/brigitta-img.jpg"/>
+  </defs>
+  <title>Artboard4</title>
+  <g id="Artboard_4" data-name="Artboard 4">
+    <g>
+      <g>
+        <rect y="-1" width="1299" height="700" style="fill: #040322;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.75px"/>
+        <text transform="translate(-27.31 131.75) scale(0.94 1)" style="opacity: 0.3;font-size: 232.48370361328125px;fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;font-family: FranklinGothic-Heavy, Franklin Gothic Heavy;font-weight: 800">Brigit                   
+          <tspan x="595.06" y="0" style="letter-spacing: 0.007813006989178011em">t</tspan>
+          <tspan x="683.26" y="0">a</tspan>
+        </text>
+        <image width="1000" height="667" transform="translate(332.5 66.5) scale(0.85)" xlink:href="./usable-svg/imgs/building.jpg" style="opacity: 0.3"/>
+        <rect x="262.5" y="209.5" width="372" height="456" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
+        <use transform="translate(90.5 82.46) scale(0.48)" xlink:href="#brigitta"/>
+        <use transform="translate(113.66 114.89) scale(0.48)" xlink:href="#brigitta"/>
+        <use transform="translate(143.78 147.32) scale(0.48)" xlink:href="#brigitta"/>
+        <polygon class="cross-artboard4" points="1167.08 152.83 1128.14 213.77 1077.48 181.4 1044.86 232.45 983.92 193.51 1016.54 142.46 965.49 109.84 1004.43 48.9 1055.48 81.52 1087.85 30.87 1148.79 69.81 1116.42 120.46 1167.08 152.83" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 30px">
+          <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 1160 0"
+                          to="60 1160 100"
+                          dur="4s"
+                          repeatCount="indefinite"/>
+        </polygon>
+        <g class="large-circles-artboard4">
+          <circle cx="976.66" cy="525.74" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1040.73" cy="526.06" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1104.8" cy="525.85" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1168.88" cy="526.16" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1232.95" cy="525.95" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="976.66" cy="585.46" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1040.73" cy="585.77" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1104.8" cy="585.57" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1168.88" cy="585.88" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1232.95" cy="585.67" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="976.66" cy="646.42" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1040.73" cy="646.73" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1104.8" cy="646.53" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1168.88" cy="646.84" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+          <circle cx="1232.95" cy="646.63" r="18.66" style="fill: none;stroke: #fd9a96;stroke-miterlimit: 10;stroke-width: 5px"/>
+        </g>
+        <g class="cut-circle-artboard4" style="clip-path: url(#clip-path-2)">
+          <circle cx="691.38" cy="308.79" r="94.83" style="fill: none;stroke: #00c9dc;stroke-miterlimit: 10;stroke-width: 49px"/>
+        </g>
+        <g class="small-circles-artboard4" style="opacity: 0.6">
+          <circle cx="1149.43" cy="259.43" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="259.43" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="259.43" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="259.43" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="259.43" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="259.43" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="267.2" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="267.2" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="267.2" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="267.2" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="267.2" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="267.2" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="274.98" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="274.98" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="274.98" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="274.98" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="274.98" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="274.98" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="282.75" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="282.75" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="282.75" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="282.75" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="282.75" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="282.75" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="290.52" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="290.52" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="290.52" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="290.52" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="290.52" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="290.52" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="298.3" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="298.3" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="298.3" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="298.3" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="298.3" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="298.3" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="306.07" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="306.07" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="306.07" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="306.07" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="306.07" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="306.07" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="313.84" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="313.84" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="313.84" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="313.84" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="313.84" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="313.84" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="321.62" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="321.62" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="321.62" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="321.62" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="321.62" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="321.62" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="329.39" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="329.39" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="329.39" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="329.39" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="329.39" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="329.39" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="337.17" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="337.17" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="337.17" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="337.17" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="337.17" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="337.17" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="344.94" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="344.94" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="344.94" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="344.94" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="344.94" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="344.94" r="2.43" style="fill: #fff"/>
+          <circle cx="1149.43" cy="352.71" r="2.43" style="fill: #fff"/>
+          <circle cx="1159.15" cy="352.71" r="2.43" style="fill: #fff"/>
+          <circle cx="1167.89" cy="352.71" r="2.43" style="fill: #fff"/>
+          <circle cx="1177.61" cy="352.71" r="2.43" style="fill: #fff"/>
+          <circle cx="1187.33" cy="352.71" r="2.43" style="fill: #fff"/>
+          <circle cx="1196.07" cy="352.71" r="2.43" style="fill: #fff"/>
+        </g>
+        <circle class="sunset-circle-artboard4" cx="603" cy="671" r="84.5" style="fill: #ec002e">
+          <animate
+                attributeName="r"
+                attributeType="XML"
+                from="84.5"
+                to="100"
+                begin="0s"
+                dur="4s"
+                fill="freeze"
+                repeatCount="indefinite"
+              />
+        </circle>
+        <line class="sunset-line1-artboard4" x1="610.5" y1="637.5" x2="802.5" y2="637.5" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;opacity: 0.6">
+           <animate
+                attributeName="x1"
+                attributeType="XML"
+                from="610.5"
+                to="560"
+                begin="0s"
+                dur="4s"
+                fill="freeze"
+                repeatCount="indefinite"
+              />
+                    <animate
+                attributeName="x2"
+                attributeType="XML"
+                from="802.5"
+                to="750"
+                begin="0s"
+                dur="4s"
+                fill="freeze"
+                repeatCount="indefinite"
+              />
+        </line>
+        <line class="sunset-line2-artboard4" x1="591.5" y1="650.5" x2="783.5" y2="650.5" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;opacity: 0.6">
+                   <animate
+                attributeName="x1"
+                attributeType="XML"
+                from="591.5"
+                to="650"
+                begin="0s"
+                dur="4s"
+                fill="freeze"
+                repeatCount="indefinite"
+              />
+                    <animate
+                attributeName="x2"
+                attributeType="XML"
+                from="783.5"
+                to="860"
+                begin="0s"
+                dur="4s"
+                fill="freeze"
+                repeatCount="indefinite"
+              />
+        </line>
+        <line class="sunset-line3-artboard4" x1="641.5" y1="660.5" x2="833.5" y2="660.5" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;opacity: 0.6">
+                <animate
+                attributeName="x1"
+                attributeType="XML"
+                from="641.5"
+                to="560"
+                begin="0s"
+                dur="4s"
+                fill="freeze"
+                repeatCount="indefinite"
+              />
+                    <animate
+                attributeName="x2"
+                attributeType="XML"
+                from="863"
+                to="790"
+                begin="0s"
+                dur="4s"
+                fill="freeze"
+                repeatCount="indefinite"
+              />
+              </line>
+        <line class="sunset-line4-artboard4" x1="587.5" y1="624.5" x2="779.5" y2="624.5" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px;opacity: 0.6">
+             <animate
+                attributeName="x1"
+                attributeType="XML"
+                from="587.5"
+                to="680"
+                begin="0s"
+                dur="4s"
+                fill="freeze"
+                repeatCount="indefinite"
+              />
+                    <animate
+                attributeName="x2"
+                attributeType="XML"
+                from="779.5"
+                to="820"
+                begin="0s"
+                dur="4s"
+                fill="freeze"
+                repeatCount="indefinite"
+              />
+        </line>
+      </g>
+    </g>
+  </g>
+</svg>
